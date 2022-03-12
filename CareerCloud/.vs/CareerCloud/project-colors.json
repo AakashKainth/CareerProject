@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d07cf3e-7904-4564-83be-2a1b4d90d18c": {
+      "ProjectGuid": "5d07cf3e-7904-4564-83be-2a1b4d90d18c",
+      "DisplayName": "CareerCloud.Pocos",
+      "ColorIndex": 0
+    },
+    "f1e0a1fa-dafd-4fed-ab36-224a9a9cac45": {
+      "ProjectGuid": "f1e0a1fa-dafd-4fed-ab36-224a9a9cac45",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment1",
+      "ColorIndex": 1
+    },
+    "ddcf4e05-44c0-4b51-8b3b-9bd7efb8075b": {
+      "ProjectGuid": "ddcf4e05-44c0-4b51-8b3b-9bd7efb8075b",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment1",
+      "ColorIndex": 2
+    },
+    "24b894ab-02f3-4a73-a0a3-3cbced218c07": {
+      "ProjectGuid": "24b894ab-02f3-4a73-a0a3-3cbced218c07",
+      "DisplayName": "CareerCloud.DataAccessLayer",
+      "ColorIndex": 3
+    },
+    "438d8b8f-19fe-485b-baeb-07b0f3d652d2": {
+      "ProjectGuid": "438d8b8f-19fe-485b-baeb-07b0f3d652d2",
+      "DisplayName": "CareerCloud.ADODataAccessLayer",
+      "ColorIndex": 4
+    },
+    "4372beaf-279d-4e10-a125-0ae049a33280": {
+      "ProjectGuid": "4372beaf-279d-4e10-a125-0ae049a33280",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment2",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3302f935-ac81-4381-8d1c-f83ea7ae8805": {
+      "ProjectGuid": "3302f935-ac81-4381-8d1c-f83ea7ae8805",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 6
+    },
+    "c0713422-1102-4720-897a-5bff8ff71e57": {
+      "ProjectGuid": "c0713422-1102-4720-897a-5bff8ff71e57",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment2",
+      "ColorIndex": 7
+    },
+    "dfc3c86c-9d38-4cc4-b0ea-620b2e151a11": {
+      "ProjectGuid": "dfc3c86c-9d38-4cc4-b0ea-620b2e151a11",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment2",
+      "ColorIndex": 8
+    },
+    "001413f5-2d65-492b-97bd-1d5e6453e26e": {
+      "ProjectGuid": "001413f5-2d65-492b-97bd-1d5e6453e26e",
+      "DisplayName": "CareerCloudCore.UnitTests.Assignment2",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

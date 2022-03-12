@@ -1,0 +1,11 @@
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net6.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.dll
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\aakash\Downloads\NET.12-1-Aakash-n01558497\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net6.0\CareerCloud.DataAccessLayer.pdb

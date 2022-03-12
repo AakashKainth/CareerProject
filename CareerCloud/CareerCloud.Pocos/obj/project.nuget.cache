@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPunuhPnBD4fBXb9nrabhhEE2bcGF5hy+grZZiBb86Dp6docD3cYmrN5E19IzaadtOl7KYAn+7SEg1+avYvQsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aakash\\Downloads\\NET.12-1-Aakash-n01558497\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.0\\microsoft.extensions.configuration.fileextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.0\\microsoft.extensions.configuration.json.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.0\\microsoft.extensions.fileproviders.physical.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.0\\microsoft.extensions.filesystemglobbing.3.1.0.nupkg.sha512",
+    "C:\\Users\\aakash\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
